@@ -5,4 +5,4 @@ primer ejercicio online colaborativo
 # instrucciones
 ejecutar el siguiente comando para instalar las dependencias: npm install 
 
-para iniciar ejecutar: npm start
+para iniciar a desarrollar ejecutar: npm start
