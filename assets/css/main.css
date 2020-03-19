@@ -404,7 +404,7 @@ body {
   .hero-section__info_small a {
     color: #000; }
     .hero-section__info_small a:hover {
-      color: #FFF; }
+      color: #FFFfff; }
 
 .hero-section__info_medium {
   width: 60%;
@@ -412,11 +412,11 @@ body {
   background-color: #E56399;
   padding-left: 80px; }
   .hero-section__info_medium a {
-    color: #FFF; }
+    color: #FFFfff; }
     .hero-section__info_medium a:hover {
       color: #000; }
   .hero-section__info_medium p {
-    color: #FFF; }
+    color: #FFFfff; }
 
 /* History Section
  ========================================================================== */
@@ -451,7 +451,7 @@ body {
   padding-top: 50px;
   padding-bottom: 50px;
   background-color: #E56399;
-  color: #FFF; }
+  color: #FFFfff; }
 
 .about-section__content {
   width: 50%;
@@ -499,7 +499,7 @@ body {
   .news-section h2 {
     padding-bottom: 20px;
     text-align: center;
-    color: #FFF; }
+    color: #FFFfff; }
 
 /* Footer Layout
    ========================================================================== */
@@ -519,12 +519,12 @@ body {
   .footer__container small {
     display: inline-block;
     margin-top: 20px;
-    color: #FFF; }
+    color: #FFFfff; }
 
 .social-navigation {
   margin-right: 10px;
   font-size: 30px;
-  color: #FFF; }
+  color: #FFFfff; }
 
 /* Buttons Component
    ========================================================================== */
@@ -541,8 +541,8 @@ body {
   background-color: transparent; }
 
 .button_secondary {
-  border: 1px solid #FFF;
-  color: #FFF;
+  border: 1px solid #FFFfff;
+  color: #FFFfff;
   background-color: transparent; }
 
 /* Cards Component
@@ -550,7 +550,7 @@ body {
 .card {
   max-width: 30%;
   margin: 10px;
-  background-color: #FFF; }
+  background-color: #FFFfff; }
 
 .card__body {
   padding: 30px 20px; }
