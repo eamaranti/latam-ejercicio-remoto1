@@ -1,0 +1,43 @@
+/* History Section
+ ========================================================================== */
+ @media screen and (max-width:640px) {
+    /* reglas CSS */
+  }
+  @media screen and (max-width:1024px) and (min-width:640px) {
+    /* reglas CSS */
+  }
+  @media screen and (min-width:1024px) {
+    /* reglas CSS */
+  }
+
+ .history-section {
+    height: 500px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+  .history-section__image {
+    width: 30%;
+  
+    img {
+      height: 400px;
+    }
+  }
+  
+  .history-section__content {
+    
+    display: inline-block;
+    width: 70%;
+    padding-top: 10px;
+    padding-right: 200px;
+  
+    p {
+      padding-top: 10px;
+      padding-right: 100px;
+    }
+  }
+  
+  .history-section__button {
+    padding-top: 10px;
+  }

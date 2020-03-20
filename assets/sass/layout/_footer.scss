@@ -29,3 +29,14 @@
   color: $white;
 
 }
+@media only screen and (max-width: 600px) {
+  .footer {
+    height: 250px;
+  }
+  .footer__logo {
+    position: absolute;
+    margin-top: 2%;
+    top: 5%;
+    left: 50%;
+  }
+}

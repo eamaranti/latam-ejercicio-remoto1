@@ -1,0 +1,43 @@
+/* About Section
+ ========================================================================== */
+ .about-section {
+    height: 600px;
+    padding-left: 10%;
+    padding-top: 10%;
+    padding-bottom: 10%;
+    background-color: $raspberry-pink;
+    color: $white;
+  
+  }
+  
+  .about-section__content {
+  
+    width: 50%;
+    padding-top: 12%;
+  
+    p {
+      padding-top: 1%;
+      padding-right: 5%;;
+    }
+  }
+  
+  .about-section__button {
+    padding-top: 6%;
+  }
+  
+  .about-section__image {
+    padding-left: 5%;
+  
+    width: 50%;
+  
+    img {
+      width: 20%;
+    }
+  }
+  
+//   @media only screen and (max-width: 600px) {
+//     #aboutimage {
+  
+//       display:none;
+      
+//     } 

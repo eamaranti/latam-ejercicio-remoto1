@@ -4,6 +4,15 @@
   max-width: 30%;
   margin: 10px;
   background-color: $white;
+  
+}
+
+@media only screen and (max-width: 600px) {
+ .card {
+   float: none;
+    width: 70%;
+    clear: both;   
+ } 
 }
 
 .card__body {

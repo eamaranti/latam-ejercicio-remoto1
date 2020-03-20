@@ -1,0 +1,24 @@
+/* Gallery Section
+ ========================================================================== */
+ .gallery-section {
+    height: 400px;
+    padding-top: 50px;
+    text-align: center;
+  }
+  
+  .gallery-section__wrapper {
+    display: inline-block;
+    padding-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;
+  }
+  
+  .gallery-section__image {
+    width: 25%;
+    padding-left: 10px;
+    padding-right: 10px;
+  
+    img {
+      height: 200px;
+    }
+  }
